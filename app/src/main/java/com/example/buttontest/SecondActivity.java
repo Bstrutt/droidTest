@@ -64,6 +64,6 @@ public class SecondActivity extends AppCompatActivity {
         con.addView(field2);
 
         setContentView(R.layout.activity_second);
-    }
+    }//changes
 }
 
